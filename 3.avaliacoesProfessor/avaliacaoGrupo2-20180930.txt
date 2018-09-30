@@ -1,0 +1,4 @@
+1. Existem arquivos e pastas no repositório nominados com acentos e espaços, corrigir isto.
+2. Transferir o conteúdo do arquivo "Projeto Chamada UFG.pdf" para o documento visão. Depois de fazer isto pode deletar o arquivo "Projeto Chamada UFG.pdf".
+3. Não existe o CSU02?
+4. O nome dos atributos das classes devem começar com letra minúscula e não ter acentuação gráfica.
